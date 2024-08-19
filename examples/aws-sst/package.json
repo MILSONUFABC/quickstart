@@ -23,6 +23,7 @@
     "@serverless-stack/cli": "0.60.6",
     "@serverless-stack/resources": "0.60.6",
     "aws-cdk-lib": "2.7.0",
+    "aws-sst": "file:",
     "pluggy-sdk": "^0.12.3"
   }
 }

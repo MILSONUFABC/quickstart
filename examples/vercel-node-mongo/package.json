@@ -3,7 +3,8 @@
   "dependencies": {
     "mongodb": "^3.6.6",
     "pg": "^8.6.0",
-    "pluggy-sdk": "^0.7.0"
+    "pluggy-sdk": "^0.7.0",
+    "pluggy-vercel-node-mongo-example": "file:"
   },
   "devDependencies": {
     "@types/mongodb": "^3.6.12",
